@@ -6,10 +6,6 @@ package z.guia2;
 
 import java.util.Scanner;
 
-/**
- *
- * @author CallmeCarlos
- */
 public class Problema9 {
 
     public static void main(String[] args) {
